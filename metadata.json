@@ -1,0 +1,6 @@
+{
+  "name": "Scriboria",
+  "description": "A premium e-commerce platform for curated books, stationery, writing instruments, and creative creative essentials.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
